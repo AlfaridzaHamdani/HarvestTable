@@ -1,0 +1,16 @@
+{
+  "name": "Harvest Table",
+  "version": "1.0.0",
+  "description": "Inspiration Design : https://dribbble.com/shots/24324618-Restaurant-Website-Design-Concept?utm_source=Clipboard_Shot&utm_campaign=ronasit&utm_content=Restaurant%20Website%20Design%20Concept&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=ronasit&utm_content=Restaurant%20Website%20Design%20Concept&utm_medium=Social_Share",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/css/input.css -o ./public/css/style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "postcss": "^8.4.38",
+    "tailwindcss": "^3.4.4"
+  }
+}
